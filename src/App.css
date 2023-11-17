@@ -1,9 +1,16 @@
-.App {
+body{
+  background-color: #dbecf4;
+  padding-top: 100px;
+}
+.App h1{
   text-align: center;
-  margin-top: 20px;
+  color: #194569;
 }
 
 footer{
+  text-align: center;
+  font-size: 14px;
   margin-top: 20px;
+  color: #5f84a2;
 }
 

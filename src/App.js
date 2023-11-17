@@ -5,9 +5,8 @@ function App() {
   return (
     <div className="App">
       <div className="container">
-        <h1>Dictionary Project</h1>
         <main>
-          <Dictionary />
+          <Dictionary defaultKeyword="happiness" />
         </main>
         <footer>
           This project coded by Selin Ates and open sourced on{" "}

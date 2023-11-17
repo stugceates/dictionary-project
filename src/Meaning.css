@@ -3,18 +3,24 @@
   font-size: 24px;
   line-height: 29px;
   margin-bottom: 20px;
-  color: black;
+  color: #5f84a2;
 }
 
-.Meaning p {
-  font-size: 14px;
+.Meaning .definition {
+  font-size: 16px;
   line-height: 17px;
-  color: #000000;
+  color: #194569;
   margin: 20px 0 10px;
 }
 
-.Meaning em {
+.Meaning .example {
   font-size: 13px;
   line-height: 15px;
-  color: #666666;
+  color: #70757a;
+  
+ 
+}
+
+.Meaning .synonym{
+  margin-top: 10px;
 }

@@ -1,4 +1,26 @@
-.dictionary{
-  background-color: beige;
-  text-align: left;
+.Dictionary {
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+.Dictionary section{
+  background-color: aliceblue;
+  padding: 30px;
+  border-radius: 8px;
+  box-shadow: 0 10px 10px rgba(0, 0, 0, 0.1) ;
+  margin: 20px 0;
+}
+
+.Dictionary input {
+  width: 100%;
+  padding: 6px 8px ;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  color: #333;
+}
+
+.Dictionary .hint{
+  font-size: 11px;
+  margin-top: 5px;
+  color: #5f84a2 ;
 }

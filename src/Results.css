@@ -1,3 +1,5 @@
-.results{
-  text-align: left;
+.results h2{
+  color: #194569;
+  font-weight: 600;
+  line-height: 1.5;
 }
