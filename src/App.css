@@ -5,7 +5,7 @@ body{
 
 .App {
   max-width: 960px;
-  margin: 0 au;
+  margin: 0 auto;
 }
 .App h1{
   text-align: center;
