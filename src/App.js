@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <div className="container">
         <main>
-          <Dictionary defaultKeyword="happiness" />
+          <Dictionary defaultKeyword="happy" />
         </main>
         <footer>
           This project coded by Selin Ates and open sourced on{" "}

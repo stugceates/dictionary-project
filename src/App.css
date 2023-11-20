@@ -2,6 +2,11 @@ body{
   background-color: #dbecf4;
   padding-top: 100px;
 }
+
+.App {
+  max-width: 960px;
+  margin: 0 au;
+}
 .App h1{
   text-align: center;
   color: #194569;
